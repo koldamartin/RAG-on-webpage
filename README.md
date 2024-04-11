@@ -12,3 +12,9 @@ When using Command-R-plus model, the chatbot also prints source documents (not w
 **Web-Scraper**: UseScraper
 
 ![image](https://github.com/koldamartin/RAG-on-webpage/assets/68967537/5a18ae88-86c8-4d12-90db-d426c17e0fb9)
+
+Based on:
+
+ https://python.langchain.com/docs/use_cases/question_answering/chat_history/)
+
+ https://usescraper.com/blog/langchain-chatgpt-rag-with-your-website-content
